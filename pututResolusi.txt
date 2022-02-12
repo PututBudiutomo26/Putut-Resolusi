@@ -1,4 +1,4 @@
 Resolusi
 - Konsisten belajar programming
-- Membuat sebuah Sistem Informasi yang bermanfaat
 - Bisa magang di startup besar di Indonesia 
+- Membuat project menggunakan framework laravel
